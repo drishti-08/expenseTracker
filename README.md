@@ -1,4 +1,5 @@
 **EXPENSE TRACKER**
+
 The Expense Tracker project, built on the .NET framework, offers a user-friendly solution for efficient financial management. 
 It simplifies recording, categorizing, and analyzing expenses, helping individuals and businesses identify and control unforeseen spending, leading to better financial planning and goal allocation!
 
